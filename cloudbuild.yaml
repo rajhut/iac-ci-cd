@@ -32,3 +32,6 @@ steps:
           cd ../../
         done
       fi 
+
+logsBucket: 'NONE'
+serviceAccount: 'projects/ldc-1-453021/serviceAccounts/service-account-cloud-build@ldc-1-453021.iam.gserviceaccount.com'
