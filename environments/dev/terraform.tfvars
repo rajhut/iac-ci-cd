@@ -1,3 +1,5 @@
 project="ldc-1-453021"
 type-machine="--"
 instance-name="--"
+vpc-name="vpc-cloud-build"
+subnet-1 = "10.0.1.0/24"
