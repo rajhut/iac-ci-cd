@@ -33,5 +33,5 @@ steps:
         done
       fi 
 
-logsBucket: 'NONE'
+logsBucket: 'gs://logs-cloudbuild-demo'
 serviceAccount: 'projects/ldc-1-453021/serviceAccounts/service-account-cloud-build@ldc-1-453021.iam.gserviceaccount.com'
